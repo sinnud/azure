@@ -1,0 +1,14 @@
+astroid==2.4.2
+colorama==0.4.3
+isort==4.3.21
+lazy-object-proxy==1.4.3
+logzero==1.5.0
+mccabe==0.6.1
+pylint==2.5.3
+pymssql @ file:///D:/code/azure/pymssql-2.1.4-cp38-cp38-win32.whl
+six==1.15.0
+toml==0.10.1
+wrapt==1.12.1
+azure-mgmt-resource>=2.1.0
+azure-mgmt-storage>=3.0.0
+haikunator
